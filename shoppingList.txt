@@ -4,3 +4,4 @@ shopping list:
 -carrot
 -tomato
 -potato
+-rice
