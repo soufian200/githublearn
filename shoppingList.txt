@@ -5,3 +5,5 @@ shopping list:
 -tomato
 -potato
 -rice
+-orange
+-apple
